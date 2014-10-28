@@ -29,7 +29,7 @@ $( document ).mouseup( function() {
 });
 
 return $.widget("ui.mouse", {
-	version: 1.11.0preN",
+	version: "1.11.0pre",
 	options: {
 		cancel: "input,textarea,button,select,option",
 		distance: 1,
