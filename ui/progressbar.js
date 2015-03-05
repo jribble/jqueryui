@@ -25,7 +25,7 @@
 }(function( $ ) {
 
 return $.widget( "ui.progressbar", {
-	version: 1.11.0preN",
+	version: "1.11.0preN",
 	options: {
 		max: 100,
 		value: 0,

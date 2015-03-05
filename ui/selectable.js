@@ -26,7 +26,7 @@
 }(function( $ ) {
 
 return $.widget("ui.selectable", $.ui.mouse, {
-	version: 1.11.0preN",
+	version: "1.11.0preN",
 	options: {
 		appendTo: "body",
 		autoRefresh: true,

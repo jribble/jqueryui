@@ -37,7 +37,7 @@ function spinner_modifier( fn ) {
 }
 
 return $.widget( "ui.spinner", {
-	version: 1.11.0preN",
+	version: "1.11.0preN",
 	defaultElement: "<input>",
 	widgetEventPrefix: "spin",
 	options: {

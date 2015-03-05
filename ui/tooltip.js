@@ -26,7 +26,7 @@
 }(function( $ ) {
 
 return $.widget( "ui.tooltip", {
-	version: 1.11.0preN",
+	version: "1.11.0preN",
 	options: {
 		content: function() {
 			// support: IE<9, Opera in jQuery <1.7

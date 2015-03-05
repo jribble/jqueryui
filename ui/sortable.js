@@ -26,7 +26,7 @@
 }(function( $ ) {
 
 return $.widget("ui.sortable", $.ui.mouse, {
-	version: 1.11.0preN",
+	version: "1.11.0preN",
 	widgetEventPrefix: "sort",
 	ready: false,
 	options: {

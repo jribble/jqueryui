@@ -26,7 +26,7 @@
 }(function( $ ) {
 
 $.widget("ui.resizable", $.ui.mouse, {
-	version: 1.11.0preN",
+	version: "1.11.0preN",
 	widgetEventPrefix: "resize",
 	options: {
 		alsoResize: false,

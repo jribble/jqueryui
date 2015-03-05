@@ -27,7 +27,7 @@
 }(function( $ ) {
 
 return $.widget( "ui.selectmenu", {
-	version: 1.11.0preN",
+	version: "1.11.0preN",
 	defaultElement: "<select>",
 	options: {
 		appendTo: null,

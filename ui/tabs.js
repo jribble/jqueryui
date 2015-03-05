@@ -25,7 +25,7 @@
 }(function( $ ) {
 
 return $.widget( "ui.tabs", {
-	version: 1.11.0preN",
+	version: "1.11.0preN",
 	delay: 300,
 	options: {
 		active: null,
